@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PruebaIIPuebliando409</string>
+    <string name="titulohoteles">
+        Apenas vá pelas ruas então!
+    </string>
+    <string name="resenahoteles">
+        Se estiver passando pela Fundadora de povoados, saiba que as acomodações rurais são uma das opções mais destacadas. Você pode alugar por horas, pernoites e por semanas
+        por muito menos do que custaria um plano em um hotel de lugares distantes. Não há preocupação com a vista, pois a panorâmica do município é encantadora...
+    </string>
+    <string name="botonhotel">HOTÉIS</string>
+    <string name="titulorestaurantes">
+    Todos nós estamos com fome, né?
+    </string>
+    <string name="resenarestaurantes">
+    Em Copa, a comida antioqueña não fica para trás. Aproxime-se de Aide para experimentar um delicioso mondongo completo, ou passe de carro pelo ponto de parada de Santa Rosa e monte o buffet mais paisa que você pode imaginar! E é claro, seja na estrada ou em qualquer restaurante, você terá o suficiente para aquela mazamorra com sabor defumado.
+        Pode ter certeza de que onde um come, dois podem comer, e ainda sobra para três, caso os quatro não repitam
+    </string>
+    <string name="botonrestaurante">RESTAURANTES</string>
+    <string name="titulositios">
+        Escolha o parque principal, o santuário, a colina principal ou as trilhas!
+    </string>
+    <string name="resenasitios">
+        Este é um município que combina harmoniosamente sua riqueza natural, como o Parque de Piedras Blancas,
+        que compartilha com Guarne, e seu valor histórico, representado pela Igreja Nuestra Señora de San Juan de la Tasajera,
+        o local onde foi celebrada a primeira missa católica no Valle de Aburrá, em 8 de setembro de 1541. Localizado a quarenta minutos de Medellín,
+        com acesso rodoviário em boas condições e muitas propriedades rurais para aqueles que procuram um clima quente perto da capital de Antioquia
+    </string>
+    <string name="botonsitios">LOCAIS TURÍSTICOS</string>
+
+    <string name="Opcion1">Espanhol</string>
+    <string name="Opcion2">Inglês</string>
+    <string name="Opcion3">Português</string>
+    <string name="Opcion4">Sobre</string>
+</resources>

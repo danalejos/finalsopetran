@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PruebaIIPuebliando409</string>
+    <string name="titulohoteles">
+        ¡Andate por las calles pues!
+    </string>
+    <string name="resenahoteles">
+        Si vas de paso por la Fundadora de pueblos, enterate que los hospedajes campestres son de las opciones que mas destacan.
+        Puedes alquilar por horas, amanecidas y por semanas desde mucho menos que lo te cuesta un plan en
+        hotel de lugares lejanos. No hay reparo con la vista, pues la panoramica del municipio resulta de encanto...
+    </string>
+    <string name="botonhotel">HOTELES</string>
+    <string name="titulorestaurantes">Como que esta dando filo, ¿no?
+    </string>
+    <string name="resenarestaurantes">
+            En Copa la comida antioquena no queda en bajo. Arrima donde Aide para probar un rico mondongo completo, o pasate en carro por el paradero
+        de Santa Rosa y te armas el buffet mas paisa que Avemaria. Eso si, ya sea en la autopista o en cualquier restaurante te va a alcanzar para
+        esa mazamorra con sabor ahumado. Tengalo por seguro, que donde comen uno, comen dos y queda para tres por si no se repiten cuatro.
+    </string>
+    <string name="botonrestaurante">RESTAURANTES</string>
+    <string name="titulositios">
+        ¿Pa donde va a coger hoy?
+    </string>
+    <string name="resenasitios">
+        Este es un municipio que mezcla de manera armonica su riqueza natural, en el parque de Piedras Blancas que comparte con Guarne, y su valor historico,
+        representado en la iglesia Nuestra Senora de San Juan de la Tasajera, lugar donde se oficio la primera misa catolica en el Valle de Aburra,
+        el 8 de septiembre de 1541. A cuarenta minutos de Medellin, con via de acceso en buenas condiciones y muchas fincas de recreo para quienes
+        buscan tierra caliente cerca de la capital antioqueña
+    </string>
+    <string name="botonsitios">SITIOS TURISTICOS</string>
+
+    <string name="Opcion1">Español</string>
+    <string name="Opcion2">Inglés</string>
+    <string name="Opcion3">Portugués</string>
+    <string name="Opcion4">Acerca de</string>
+</resources>

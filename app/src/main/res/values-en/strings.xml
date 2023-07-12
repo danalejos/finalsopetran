@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PruebaIIPuebliando409</string>
+    <string name="titulohoteles">
+        Go ahead and walk through the streets!
+    </string>
+    <string name="resenahoteles">
+        If you happen to pass by La Fundadora de Pueblos, know that countryside accommodations are among the top choices.
+        You can rent them by the hour, overnight,
+        or for weeks, for much less than what a plan in a hotel in faraway places would cost you. Theres no need to worry about the view, a
+        s the panorama of the municipality is charming...
+    </string>
+    <string name="botonhotel">HOTELS</string>
+    <string name="titulorestaurantes">
+    Feeling hungry? Look around then!
+    </string>
+    <string name="resenarestaurantes">
+        In Copa, Antioquian food doesnt keep in low fire. Come over to Donde Aide to try a delicious full mondongo, or drive by the Santa Rosa stop and
+        assemble the most paisa buffet you can imagine And of course, whether its on the highway or at any restaurant, youll have more than
+        enough for that smoky-flavored mazamorra. Rest assured, where one person eats, two can eat, and theres plenty left for three in case
+        the four dont have seconds.
+    </string>
+    <string name="botonrestaurante">RESTAURANTS</string>
+    <string name="titulositios">
+        Choose main park, sanctuary, main hill or the trails!
+    </string>
+    <string name="resenasitios">
+        This is a municipality that harmoniously combines its natural wealth, such as the Piedras Blancas Park it shares with Guarne,
+        and its historical value, represented by the Nuestra Señora de San Juan de la Tasajera Church,
+        the place where the first Catholic Mass was officiated in the Valle de Aburrá on September 8, 1541. Located forty minutes away from Medellin,
+        with good road access and many country estates for those seeking warm weather near the capital of Antioquia
+    </string>
+    <string name="botonsitios">Touristic sites</string>
+
+    <string name="Opcion1">Spanish</string>
+    <string name="Opcion2">English</string>
+    <string name="Opcion3">Portuguese</string>
+    <string name="Opcion4">About us</string>
+</resources>
